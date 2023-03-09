@@ -1,0 +1,6 @@
+*
+!.zshrc
+!.config/*
+!.tmux.conf
+!coolnight.itermcolors
+!.gitignore
