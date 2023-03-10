@@ -1,6 +1,6 @@
 *
 !.zshrc
-!.config/*
+!.config/nvim/custom/*
 !.tmux.conf
 !coolnight.itermcolors
 !.gitignore
